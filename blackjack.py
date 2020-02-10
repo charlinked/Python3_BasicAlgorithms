@@ -1,4 +1,12 @@
 '''
+This script runs a Blackjack game in python (bash) using OOP
+There is a computer dealer and one human player.
+The game uses a regular deck of cards, face cards have a value of 10, Aces are 1 or 11.
+'''
+
+
+
+'''
 import statements and variable declarations
 '''
 import random
