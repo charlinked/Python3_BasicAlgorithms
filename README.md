@@ -1,2 +1,2 @@
-# Python3_BasicAlgorithms
-These are some basic Algorithms and Data-structures in Python 3
+# Python_practice_projects
+These are some basic, projects, algorithms and Data-structures in python
