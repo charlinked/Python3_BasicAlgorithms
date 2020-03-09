@@ -1,2 +1,2 @@
 # Python_practice_projects
-These are some basic, projects, algorithms and Data-structures in python
+This folder contains some essential algorithms and data-structures in python, as well as some basic projects. 
